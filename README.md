@@ -1,5 +1,5 @@
 # Codeigniter Tanıtım Sitesi
-Codeigniter 3 ile yazılmış kariyer ve tanıtım sitesi projesi
+Codeigniter 3 ile yazılmış kariyer ve tanıtım sitesi örnek proje
 
 # Kurulum
 - Dosyaları indirip kök dizine atın.
